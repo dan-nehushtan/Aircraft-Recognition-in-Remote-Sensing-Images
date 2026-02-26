@@ -364,7 +364,5 @@ pip install transformers datasets  # For ViT experiments
 
 <div align="center">
 
-**MECH 3465 — Robotics & Machine Intelligence**  
-University of Leeds · 2024/25
 
 </div>
