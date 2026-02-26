@@ -9,10 +9,6 @@
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
-*MECH 3465 — Robotics & Machine Intelligence Coursework*
-
-**Authors:** Dan Nehushtan · Louie Burns
-
 ---
 
 </div>
